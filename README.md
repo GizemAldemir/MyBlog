@@ -23,3 +23,6 @@ Things you may want to cover:
 
 * ...
 A blog app for training
+
+#Bu proje tüm yavru kargalara ve lonelywolflara gelsin ^^
+ 
